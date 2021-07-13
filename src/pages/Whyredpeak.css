@@ -1,0 +1,9 @@
+.why-redpeak {
+    padding: 100px 0 200px;
+    background: url('redpeak.png') bottom;
+}
+
+.why-redpeak .sec-left,
+.why-redpeak .sec-right {
+    color: #fff;
+}

@@ -1,0 +1,62 @@
+
+
+    .nav-items {
+      
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 90px;
+      font-size: 1.2rem;
+    
+    }
+    
+    .nav-logo {
+      color: rgb(41, 41, 41);
+      justify-self: start;
+      margin-left: 20px;
+      cursor: pointer;
+      
+    }
+    
+    .fa-react {
+      font-size: 40px;
+      margin-left: 0.8rem;
+    }
+    
+    .fa-times {
+      color: rgb(15, 15, 15);
+      font-size: 30px;
+    }
+    .fa-bars {
+      color: rgb(36, 36, 36);
+      font-size: 30px;
+    }
+    
+    .nav-menu {
+      display: grid;
+      grid-template-columns: repeat(5, auto);
+      grid-gap: 10px;
+      list-style: none;
+      width: 70vw;
+      justify-content: end;
+      margin-right: 2rem;
+    }
+    
+    .nav-link {
+      color: rgb(39, 38, 38);
+      text-decoration: none;
+      padding: 0.5rem 1rem;
+      font-size: 1.2rem;
+      
+    }
+  
+    
+    .hamburger-icon {
+      display: none;
+    }
+    
+    .nav-link-mobile {
+      display: none;
+    }
+    
+    
