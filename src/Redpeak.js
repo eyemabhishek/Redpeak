@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./pages/Hero";
 import Highlight from "./pages/Highlight";
-import Whyredpeak from "./pages/Whyredpeak";
+import WhyRedPeak from "./pages/WhyRedPeak";
 import Contact from "./pages/Contact";
 import Footer from "./components/Footer/Footer";
 
@@ -12,7 +12,7 @@ function Redpeak() {
         <Navbar />
         <Hero />
         <Highlight />
-        <Whyredpeak />
+        <WhyRedPeak />
         <Contact />
         <Footer />
       </>
